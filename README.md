@@ -77,7 +77,7 @@ Built using Streamlit
 
 Real-time price prediction
 
-Output displayed in INR
+Output displayed 
 
 Category classification (Low / Medium / High)
 
